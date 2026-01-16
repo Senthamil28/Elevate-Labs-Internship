@@ -40,5 +40,7 @@ Firewalls and service hardening minimize attack surface
 OS hardening strengthens overall system defense
 
 # Author
+
 Senthamilselvan
+
 Cybersecurity | Ethical Hacking | Penetration Testing
