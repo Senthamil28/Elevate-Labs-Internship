@@ -37,7 +37,7 @@ Length-Prefixed TCP Transmission
      ↓
 Server Decrypt & Validate
      ↓
-Command Response (OK / STOP)
+Command Response (STOP)
 ```
 
 ---
