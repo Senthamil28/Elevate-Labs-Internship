@@ -140,7 +140,7 @@ MIT License
 
 Senthamil Selvan  
 MSc Computer Science  
-Red-Team & Network Security Focus
+Cyber Security Intern
 
 ---
 
