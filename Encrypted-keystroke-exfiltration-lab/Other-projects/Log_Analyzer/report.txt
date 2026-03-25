@@ -1,0 +1,8 @@
+Log Analysis Report
+
+High Traffic IPs:
+10.0.0.5 → 11 requests
+
+Brute Force Attempts:
+192.168.1.50 → 5 failed logins
+10.10.10.10 → 4 failed logins

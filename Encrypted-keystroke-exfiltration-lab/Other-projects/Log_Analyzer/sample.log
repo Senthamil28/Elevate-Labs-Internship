@@ -1,0 +1,37 @@
+192.168.1.10 - - [22/Mar/2026:10:00:01] "GET /index.html" 200
+192.168.1.10 - - [22/Mar/2026:10:00:05] "GET /login" 200
+192.168.1.10 - - [22/Mar/2026:10:00:07] "POST /login" 401
+192.168.1.10 - - [22/Mar/2026:10:00:10] "GET /admin" 403
+192.168.1.10 - - [22/Mar/2026:10:00:12] "GET /dashboard" 200
+
+192.168.1.20 - - [22/Mar/2026:10:01:00] "GET /index.html" 200
+192.168.1.20 - - [22/Mar/2026:10:01:02] "GET /about" 200
+
+
+10.0.0.5 - - [22/Mar/2026:10:02:00] "GET /" 200
+10.0.0.5 - - [22/Mar/2026:10:02:01] "GET /login" 200
+10.0.0.5 - - [22/Mar/2026:10:02:02] "GET /admin" 403
+10.0.0.5 - - [22/Mar/2026:10:02:03] "GET /config" 404
+10.0.0.5 - - [22/Mar/2026:10:02:04] "GET /backup" 404
+10.0.0.5 - - [22/Mar/2026:10:02:05] "GET /secret" 403
+10.0.0.5 - - [22/Mar/2026:10:02:06] "GET /hidden" 404
+10.0.0.5 - - [22/Mar/2026:10:02:07] "GET /api" 200
+10.0.0.5 - - [22/Mar/2026:10:02:08] "GET /data" 200
+10.0.0.5 - - [22/Mar/2026:10:02:09] "GET /test" 200
+10.0.0.5 - - [22/Mar/2026:10:02:10] "GET /admin" 403
+
+
+Failed password for root from 192.168.1.50
+Failed password for root from 192.168.1.50
+Failed password for admin from 192.168.1.50
+Failed password for user from 192.168.1.50
+Failed password for root from 192.168.1.50
+
+
+Accepted password for user from 192.168.1.60
+
+
+Failed password for root from 10.10.10.10
+Failed password for root from 10.10.10.10
+Failed password for root from 10.10.10.10
+Failed password for root from 10.10.10.10
